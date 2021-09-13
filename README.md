@@ -1,4 +1,4 @@
-# MALILtest
+# MALILtest2
 
 Malil is a must have **all in one** bot with tons of commands to enjoy!  
 To view the list of commands in discord you can use \*help.
